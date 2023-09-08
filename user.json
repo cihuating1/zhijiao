@@ -1,0 +1,19 @@
+{
+  "server_send_key": "Server酱 不使用留空",
+  "ding_talk_access_token": "钉钉机器人 不使用留空",
+  "ding_talk_secret": "钉钉加签验证 不使用留空",
+  "user": [
+    {
+      "token": {
+        "username": "133*****0426",
+        "password": "********"
+      },
+      "location": {
+        "address": "中国河南省*************路辅路",
+        "longitude": "1*3.***532",
+        "latitude": "*5.2**416"
+      },
+      "weekend": 0
+    }
+  ]
+}
