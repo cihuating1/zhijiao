@@ -1,19 +1,15 @@
-{
-  "server_send_key": "Server酱 不使用留空",
-  "ding_talk_access_token": "钉钉机器人 不使用留空",
-  "ding_talk_secret": "钉钉加签验证 不使用留空",
-  "user": [
-    {
-      "token": {
-        "username": "133*****0426",
-        "password": "********"
-      },
-      "location": {
-        "address": "中国河南省*************路辅路",
-        "longitude": "1*3.***532",
-        "latitude": "*5.2**416"
-      },
-      "weekend": 0
-    }
-  ]
-}
+[
+  {
+    "enable": true,
+    "alias": "袁军旗",
+    "phone": "17637870629",
+    "password": "cihuating233",
+    "deviceType": "OnePlus|OnePlus 8 Pro|13",
+    "deviceId": "114310358da24f0b890a9e291a9aeddc35ed",
+    "randomLocation": true,
+    "address": "中国河南省郑州市高新区杜兰街1-16号",
+    "longitude": "113.567299",
+    "latitude": "34.817596",
+    "pushKey": "17ae5778435e4efa84c114caa989b953"
+  }
+]
